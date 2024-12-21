@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
   },
   artistName: {
     fontSize: 14,
-    color: '#bbb',
+    color: '#bbbb',
   },
   controlsWrapper: {
     flexDirection: 'row',
